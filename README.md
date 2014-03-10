@@ -1,4 +1,4 @@
-gps_tool
+GPS Tool
 ========
 
-get gps data using gpsd
+使用gpsd获取并保存GPS模块数据
